@@ -1,6 +1,7 @@
 -- Anti-Cheat Script for Roblox Studio
 -- This script will detect and ban players using exploits or executing unauthorized scripts.
 -- Thank you for using my script! To help support me share this to other roblox devs.
+-- My username Is Carter76551
 
 local bannedPlayers = {} -- Table to store banned player IDs
 local logService = game:GetService("LogService")
